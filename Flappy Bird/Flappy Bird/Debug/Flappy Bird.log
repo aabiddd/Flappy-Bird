@@ -1,0 +1,8 @@
+﻿  Game.cpp
+C:\Users\aabee\Desktop\Flappy Bird\Flappy Bird\Flappy Bird\Game.cpp(145,21): warning C4018: '<': signed/unsigned mismatch
+  Pipe.cpp
+C:\Users\aabee\Desktop\Flappy Bird\Flappy Bird\Flappy Bird\Pipe.cpp(16,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\aabee\Desktop\Flappy Bird\Flappy Bird\Flappy Bird\Pipe.cpp(26,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\aabee\Desktop\Flappy Bird\Flappy Bird\Flappy Bird\Pipe.cpp(27,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Flappy Bird.vcxproj -> C:\Users\aabee\Desktop\Flappy Bird\Flappy Bird\Debug\Flappy Bird.exe
